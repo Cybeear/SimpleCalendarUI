@@ -1,0 +1,13 @@
+{
+  "calendar": {
+    "views": {
+      "year": "Year",
+      "month": "Month",
+      "day": "Day"
+    },
+    "actions": {
+      "today": "Today",
+      "newEvent": "New Event"
+    }
+  }
+}
