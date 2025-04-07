@@ -17,8 +17,7 @@ npm run build
 
 ### Lints and fixes files
 ```
-npm run lint
+configure nginx
+move files to nginx directory
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
